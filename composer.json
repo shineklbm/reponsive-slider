@@ -1,0 +1,19 @@
+{
+    "name": "shineklbm/responsive-slider",
+    "description": "A responsive slider plugin based on BXSlider",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shine Sudarsanan",
+            "email": "shineklbm@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Shineklbm\\ResponsiveSlider": "src"
+        }
+    }
+}
